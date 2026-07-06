@@ -25,7 +25,7 @@ Integração **completa, estável e corrigida** entre **Painel Netsimon 4.0** e 
 
 ```bash
 # Download e execução em um comando
-curl -fsSL https://raw.githubusercontent.com/seu-usuario/Modulo-Atlas-Netsimon-Final/main/install_modulo_atlas.sh -o /tmp/install_modulo_atlas.sh
+curl -fsSL https://raw.githubusercontent.com/miau4/Modulo-Atlas-Netsimon-Final/main/install_modulo_atlas.sh -o /tmp/install_modulo_atlas.sh
 sudo bash /tmp/install_modulo_atlas.sh
 ```
 
